@@ -6,8 +6,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015525/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="RT" tvg-name="RT Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RT_Logo_2015.svg" group-title="Noticias",RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26" tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Canal_26_%28Argentina%29_Logo.png" group-title="Argentina",Canal 26
-http://190.61.250.150:1935/canal26/canal26.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NASA" tvg-name="NASA TV" group-title="Ciencia",NASA TV
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV_Publica_Argentina_logo_2016.png" group-title="Argentina",TV Pública
 https://5e50264bd6766.streamlock.net/tvpublica/tvpublica/playlist.m3u8
